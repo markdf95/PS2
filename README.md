@@ -18,4 +18,4 @@ PS2Web is large because it required node.js.  The files that belong in the PS2We
   
   I didn't have time to build an installer for the web service or client so here is eveything.  
   
-  I've upload screen shots of the folder structure to recreate the VS2017 solution folder hierarchy.
+  I've uploaded a screen shot of the project folder structure to recreate the VS2017 solution folder hierarchy.
